@@ -16,7 +16,6 @@ download github repository
 
 ## Project Links
 Github repository link: 
-https://github.com/kylecoding1/PasswordGenerator
+https://github.com/kylecoding1/work-schedule
 
 Deployed Application link:
-https://kylecoding1.github.io/PasswordGenerator/
